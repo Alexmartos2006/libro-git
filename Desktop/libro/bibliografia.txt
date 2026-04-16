@@ -1,0 +1,4 @@
+<<<<<<< HEAD
+=======
+Hola, soy alejandro
+>>>>>>> bibliografia
